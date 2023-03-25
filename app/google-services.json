@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39964124771",
+    "project_id": "analytics-50b94",
+    "storage_bucket": "analytics-50b94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39964124771:android:ca13a86c75c6e68f89fa56",
+        "android_client_info": {
+          "package_name": "mahmoud.naji.analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39964124771-2tcn6mv3cv01qafi6b8b3kb4alaolq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Rfaf79le2AMsjBJEzkp8qFRZA_AYFhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39964124771-2tcn6mv3cv01qafi6b8b3kb4alaolq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
